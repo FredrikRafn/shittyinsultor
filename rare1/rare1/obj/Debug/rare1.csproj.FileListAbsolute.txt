@@ -1,0 +1,10 @@
+C:\Users\bobra\source\repos\rare1\rare1\obj\Debug\rare1.csprojAssemblyReference.cache
+C:\Users\bobra\source\repos\rare1\rare1\obj\Debug\rare1.Form1.resources
+C:\Users\bobra\source\repos\rare1\rare1\obj\Debug\rare1.Properties.Resources.resources
+C:\Users\bobra\source\repos\rare1\rare1\obj\Debug\rare1.csproj.GenerateResource.cache
+C:\Users\bobra\source\repos\rare1\rare1\obj\Debug\rare1.csproj.CoreCompileInputs.cache
+C:\Users\bobra\source\repos\rare1\rare1\bin\Debug\rare1.exe.config
+C:\Users\bobra\source\repos\rare1\rare1\bin\Debug\rare1.exe
+C:\Users\bobra\source\repos\rare1\rare1\bin\Debug\rare1.pdb
+C:\Users\bobra\source\repos\rare1\rare1\obj\Debug\rare1.exe
+C:\Users\bobra\source\repos\rare1\rare1\obj\Debug\rare1.pdb
